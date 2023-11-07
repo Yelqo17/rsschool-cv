@@ -26,3 +26,8 @@ function multiply(a, b){
 ## Work experience
 Odin-recipes (learning project for Odin course. HTML and CSS are used)  
 [odin-recipes](https://yelqo17.github.io/odin-recipes/).  
+## Education
+- The Odin Project: Foundations Course
+- W3Schools HTML tutorial
+- Learn JavaScript  
+- Roadmap.sh - up to CSS module  
