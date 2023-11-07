@@ -16,4 +16,10 @@ I am a second-year student of the MAI University. I am studying computer science
 - CSS3
 - Figma
 - Agile&Scrum
-- SQLite, MySQL, PostgreSQL
+- SQLite, MySQL, PostgreSQL  
+## Code example
+```
+function multiply(a, b){
+  return a * b
+}
+```  
