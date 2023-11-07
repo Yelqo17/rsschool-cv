@@ -31,3 +31,8 @@ Odin-recipes (learning project for Odin course. HTML and CSS are used)
 - W3Schools HTML tutorial
 - Learn JavaScript  
 - Roadmap.sh - up to CSS module  
+## Languages
+- Russian (native)
+- Polish (B1)
+- English C2 Proficient according to the online test [EF SET](https://www.efset.org/). Link to [certificate](https://www.efset.org/cert/PqGU54).  
+But personnaly I fell like my English is on Upper Intermediate level.  
