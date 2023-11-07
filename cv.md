@@ -23,3 +23,6 @@ function multiply(a, b){
   return a * b
 }
 ```  
+## Work experience
+Odin-recipes (learning project for Odin course. HTML and CSS are used)  
+[odin-recipes](https://yelqo17.github.io/odin-recipes/).  
